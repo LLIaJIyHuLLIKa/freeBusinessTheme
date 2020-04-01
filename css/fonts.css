@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../assets/fonts/GothamPro/GothamPro.eot');
+    src: url('../assets/fonts/GothamPro/GothamPro.eot?iefix') format('eot'),
+         url('../assets/fonts/GothamPro/GothamPro.ttf') format('truetype'),
+         url('../assets/fonts/GothamPro/GothamPro.woff') format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'GothamPro';
+    src: url('../assets/fonts/GothamPro/GothamPro-Black.eot');
+    src: url('../assets/fonts/GothamPro/GothamPro-Black.eot?iefix') format('eot'),
+         url('../assets/fonts/GothamPro/GothamPro-Black.ttf') format('truetype'),
+         url('../assets/fonts/GothamPro/GothamPro-Black.woff') format('woff');
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'BrandonGrotesque';
+    src: url('../assets/fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot');
+    src: url('../assets/fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot?iefix') format('eot'),
+         url('../assets/fonts/BrandonGrotesque/BrandonGrotesque-Bold.ttf') format('truetype'),
+         url('../assets/fonts/BrandonGrotesque/BrandonGrotesque-Bold.woff') format('woff');
+    font-weight: bold;
+}
